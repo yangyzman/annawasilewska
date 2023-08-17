@@ -1,2 +1,2 @@
 # annawasilewska
- "email_password": "dqv20615
+Wind Calculator converts between knots, km/h, m/s, mph and Beaufort scale
